@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Awokoya Olawale Davidson
+# Awokoya Olawale Davidson
 
 <div align="center">
 
@@ -30,6 +30,7 @@ const davidson = {
     motto: "Crafting beautiful web experiences, one component at a time 💻✨"
 };
 ```
+🌟 Open Source Contributor — Actively contributing to InsForge SDK, helping build developer tools for the community.
 
 ## 🤝 Let's Connect & Collaborate
 
