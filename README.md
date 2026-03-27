@@ -1,29 +1,101 @@
-# 💫 About Me:
- 👋Hi there! I'm a passionate frontend developer with a strong foundation in modern web technologies.<br> 👨‍💻My expertise lies in building user-friendly and visually stunning interfaces using Nextjs,Threejs,React.js, Vue.js, TypeScript and Tailwind css<br>🤝 I love crafting seamless user experiences and ensuring pixel-perfect designs, whether it's a personal portfolio, Website or complex admin dashboards.<br> 
+# 👋 Hey there! I'm Awokoya Olawale Davidson
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/olawaledavidson) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Frontend+Developer;Software+Engineer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Davidson3556&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Davidson3556&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson3556&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Davidson3556&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Davidson3556&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Davidson3556?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Davidson3556&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidson3556/davidson3556/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidson3556/davidson3556/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/davidson3556/davidson3556/output/github-snake.svg" />
-</picture>
+## 🚀 About Me
+
+```js
+const davidson = {
+    location: "Remote 🌍",
+    currentFocus: "Building stunning user interfaces",
+    portfolio: "Davidson.vercel.app",
+    linkedIn: "olawaledavidson",
+    openToWork: true,
+    passion: ["Clean Code", "Pixel-Perfect Designs", "Seamless UX"],
+    motto: "Crafting beautiful web experiences, one component at a time 💻✨"
+};
+```
+
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://www.github.com/Davidson3556"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/olawaledavidson"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davidson3556&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,threejs,html,css,tailwind,vite,appwrite,vercel,git,github,figma,nodejs&perline=12)](https://skillicons.dev)
+
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidson3556&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidson3556&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson3556&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Davidson3556&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github-profile-trophy.vercel.app/?username=Davidson3556)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)](https://github.com/Davidson3556)
+
+</div>
+
+<div align="center">
+
+### 💻 "Code is the closest thing we have to magic" ✨
+
+[![Footer Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities!)](https://git.io/typing-svg)
+
+</div>
