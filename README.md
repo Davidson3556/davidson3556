@@ -1,134 +1,130 @@
-# Awokoya Olawale Davidson
+<p align="center">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg" />
+    <img src="./assets/profile-hero.svg" width="100%" alt="Awokoya Olawale Davidson. AI agents. Real execution. Software engineer and open source contributor in Lagos, open to remote opportunities." />
+  </picture>
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI-Native+Software+Engineer;Open+Source+Contributor+%26+Maintainer;Agentic+Systems+Builder;Building+in+Public+from+Lagos+🇳🇬)](https://git.io/typing-svg)
-
-</div>
+<h1 align="center">Hi, I'm Davidson.</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davidson3556&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Davidson3556?label=Followers&style=social" alt="GitHub Followers" />
+  <strong>AI-native software engineer · Open source contributor · Former OpenSRE core maintainer</strong><br />
+  Lagos, Nigeria · Open to remote engineering opportunities
+</p>
+
+<p align="center">
+  <a href="https://davidson.vercel.app"><img src="https://img.shields.io/badge/Portfolio-69F5D1?style=for-the-badge&amp;logo=vercel&amp;logoColor=08111F" alt="View my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/olawaledavidson"><img src="https://img.shields.io/badge/LinkedIn-8EDBFF?style=for-the-badge&amp;logoColor=08111F" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:olawaledavidson1@gmail.com"><img src="https://img.shields.io/badge/Email-BD8BFA?style=for-the-badge&amp;logo=gmail&amp;logoColor=08111F" alt="Email Davidson" /></a>
+  <a href="https://x.com/AwokoyaD"><img src="https://img.shields.io/badge/Building_in_public-182238?style=for-the-badge&amp;logo=x&amp;logoColor=FFFFFF" alt="Follow my work on X" /></a>
+</p>
+
+<p align="center">
+  <a href="#open-source-contributions">Open source</a> &nbsp; / &nbsp;
+  <a href="#featured-build-drexii">Drexii</a> &nbsp; / &nbsp;
+  <a href="#engineering-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#recognition--community">Recognition</a> &nbsp; / &nbsp;
+  <a href="#lets-work-together">Contact</a>
 </p>
 
 ---
 
-## 🚀 About Me
+I build AI agents that can act across connected tools, and I contribute to the software those agents depend on. My open source work includes a Go SDK, streaming AI responses in Swift, safer backend APIs, and fixes to agent runtimes and developer CLIs.
 
-```js
-const davidson = {
-    location: "Lagos, Nigeria 🇳🇬",
-    role: "AI-Native Software Engineer & Open Source Maintainer",
-    focus: "Agentic systems — AI that doesn't just respond, it acts",
-    portfolio: "davidson.vercel.app",
-    linkedIn: "olawaledavidson",
-    twitter: "AwokoyaD",
-    openToWork: true,
-    currentlyBuilding: "Drexii — AI agent connecting 11 tools into one chat",
-    motto: "Build in public. Ship real things. Let the work speak."
-};
-```
+I'm currently building **[Drexii](https://drexii.vercel.app)**, a conversational workspace with **11 integrations and 50+ tools**. I like owning the work from the first interface to the last regression test.
+
+## Open source contributions
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/contribution-impact-mobile.svg" />
+  <img src="./assets/contribution-impact.svg" width="100%" alt="106 merged pull requests. 8 upstream repositories. 16 merged contributions across the InsForge ecosystem. 9 merged contributions to TestSprite CLI." />
+</picture>
+
+**106 merged PRs · 8 upstream repositories · 148 authored PRs** in the public contribution archive. Seven repositories have merged work; Nuxt has a closed proposal. Snapshot: **15 October 2026**.
+
+**[Browse the complete contribution archive ↗](./CONTRIBUTIONS.md)**
+
+### Selected work
+
+| Project | What I contributed | Merged work |
+| :--- | :--- | :--- |
+| **[OpenSRE](https://github.com/Tracer-Cloud/opensre)** | Former paid core maintainer. Added Claude Code and GitHub Copilot CLI providers; fixed provider retry handling and guarded CI repair against a changing source branch. | **77 PRs** · [Claude Code #1168](https://github.com/Tracer-Cloud/opensre/pull/1168) · [Copilot #1533](https://github.com/Tracer-Cloud/opensre/pull/1533) · [Retry handling #3172](https://github.com/Tracer-Cloud/opensre/pull/3172) · [CI repair #6504](https://github.com/Tracer-Cloud/opensre/pull/6504) |
+| **[InsForge](https://github.com/InsForge/InsForge)** | Protected system schemas in the SQL editor, fixed dashboard edits for composite primary keys, and blocked anonymous clients from the raw-email endpoint. Also contributed deployment and storage settings. | **8 PRs** · [SQL protection #1041](https://github.com/InsForge/InsForge/pull/1041) · [Composite keys #1584](https://github.com/InsForge/InsForge/pull/1584) · [Email access #1629](https://github.com/InsForge/InsForge/pull/1629) |
+| **[InsForge JavaScript SDK](https://github.com/InsForge/InsForge-sdk-js)** | Added HTTP retries and configurable timeouts, request debugging, integration-test CI, and working lint and formatting gates. | **4 PRs** · [Retries #51](https://github.com/InsForge/InsForge-sdk-js/pull/51) · [Debugging #50](https://github.com/InsForge/InsForge-sdk-js/pull/50) · [CI #59](https://github.com/InsForge/InsForge-sdk-js/pull/59) |
+| **[InsForge Swift SDK](https://github.com/InsForge/insforge-swift)** | Added streaming chat completions with Server-Sent Events and chunked uploads for large files; resolved existing SwiftLint violations. | **3 PRs** · [Streaming #18](https://github.com/InsForge/insforge-swift/pull/18) · [Uploads #20](https://github.com/InsForge/insforge-swift/pull/20) · [Lint #25](https://github.com/InsForge/insforge-swift/pull/25) |
+| **[InsForge Go SDK](https://github.com/InsForge/insforge-go)** | Built and contributed the Go SDK for authentication, databases, storage, AI, realtime, functions, and email. | **1 PR** · [SDK #1](https://github.com/InsForge/insforge-go/pull/1) |
+| **[TestSprite CLI](https://github.com/TestSprite/testsprite-cli)** | Added GitHub Copilot and Windsurf install targets; kept machine-readable stdout clean; improved input validation and HTTP response handling. | **9 PRs** · [Copilot #194](https://github.com/TestSprite/testsprite-cli/pull/194) · [Windsurf #29](https://github.com/TestSprite/testsprite-cli/pull/29) · [Clean stdout #31](https://github.com/TestSprite/testsprite-cli/pull/31) · [Response validation #291](https://github.com/TestSprite/testsprite-cli/pull/291) |
+| **[MoleCare MCP](https://github.com/MoleCare/molecare-mcp)** | Fixed bundled terminology resolution and ICD-10 mappings, moved medical knowledge into locale files, and improved configuration docs and registry publishing checks. | **4 PRs** · [Terminology #76](https://github.com/MoleCare/molecare-mcp/pull/76) · [Locales #103](https://github.com/MoleCare/molecare-mcp/pull/103) · [Registry CI #92](https://github.com/MoleCare/molecare-mcp/pull/92) |
+| **[Nuxt CLI](https://github.com/nuxt/cli)** | Proposed a fix to keep the working directory at the project root during preview. | **Closed, unmerged** · [Proposal #1235](https://github.com/nuxt/cli/pull/1235) |
+
+### Reviews & issue reports
+
+I also contribute through code review and reproducible bug reports. In **[OpenSRE #6527](https://github.com/Tracer-Cloud/opensre/pull/6527#pullrequestreview-5407646934)**, I ran 86 focused tests and reproduced headless-browser and small-terminal regressions. Other public reviews cover [resumable sessions](https://github.com/Tracer-Cloud/opensre/pull/6262#pullrequestreview-5215051223), [test-shard partitioning](https://github.com/Tracer-Cloud/opensre/pull/5996#pullrequestreview-5106186742), and [installer canaries](https://github.com/Tracer-Cloud/opensre/pull/5972#pullrequestreview-5100086858).
+
+My issue reports include [one invalid credential aborting integration discovery](https://github.com/Tracer-Cloud/opensre/issues/3254), [SDK documentation and storage API mismatches](https://github.com/InsForge/InsForge-sdk-js/issues/58), and [interactive output breaking JSON-mode stdout](https://github.com/TestSprite/testsprite-cli/issues/30).
+
+**[Review and issue evidence ↗](./CONTRIBUTIONS.md#reviews--issue-reports)**
+
+<details>
+<summary><strong>Explore every authored pull request</strong></summary>
+
+The **[complete contribution archive](./CONTRIBUTIONS.md)** lists all 148 authored PRs across these eight upstream projects, grouped by repository, with their titles, dates, and status. It separates **106 merged changes** from **42 closed, unmerged proposals**.
+
+Browse the current GitHub records: [authored PRs](https://github.com/search?q=author%3ADavidson3556+is%3Apr+is%3Apublic+-user%3ADavidson3556&type=pullrequests) · [merged PRs](https://github.com/search?q=author%3ADavidson3556+is%3Apr+is%3Amerged+is%3Apublic+-user%3ADavidson3556&type=pullrequests).
+
+The archive covers public upstream work outside my own repositories. The broader GitHub searches also include professional product work, which is excluded from these open source totals.
+
+</details>
+
+## Featured build: Drexii
+
+> **One conversation. Your tools, working together.**
+
+**[Drexii](https://drexii.vercel.app)** is an AI agent platform I built to turn requests into actions across a connected workspace. **[Featured in TestSprite's project gallery](https://www.testsprite.com/discover).**
+
+| Product | Engineering |
+| :--- | :--- |
+| **11 integrations, 50+ tools** in one chat interface | Nuxt 4, TypeScript, and InsForge |
+| Actions across email, calendars, documents, and team workflows | Multi-model routing with Claude, DeepSeek, and Gemini |
+| Chained automations with persistent context | Memory, voice input/output, and a confirm-before-act layer |
+
+<details>
+<summary><strong>See the integrations</strong></summary>
+
+Gmail · Slack · Notion · Jira · Linear · Asana · Google Calendar · Google Drive · Discord · Zendesk · Salesforce
+
+</details>
+
+**[Explore Drexii ↗](https://drexii.vercel.app)** &nbsp; · &nbsp; **[More projects in my portfolio ↗](https://davidson.vercel.app)**
+
+## Engineering toolkit
+
+| Area | Technologies and focus |
+| :--- | :--- |
+| **Languages** | TypeScript · JavaScript · Python · Go · Swift |
+| **Web & product** | React · Next.js · Vue · Nuxt · Node.js · Tailwind CSS |
+| **AI systems** | Agent orchestration · MCP · Tool integrations · Streaming · Model routing |
+| **Data & delivery** | PostgreSQL · MongoDB · Docker · Vercel · GitHub Actions |
+| **Reliability** | API validation · Authentication boundaries · SDK design · Regression testing · Code review |
+
+## Recognition & community
+
+| Recognition | Result |
+| :--- | :--- |
+| **[InsForge PR Hackathon LW1](https://insforge.dev/blog/insforge-pr-hackathon)** | **1st place globally** · $1,000 prize |
+| **[TestSprite Season 2 Hackathon](https://www.testsprite.com/hackathon-s2)** | **4th place** · $150 prize |
+| **TestSprite CLI improvement bounty** | $200 in merged PR rewards |
+| **OpenAI Codex for Open Source** | Selected maintainer · 6 months of ChatGPT Pro |
+| **GitHub Maintainer Advisory Network** | Selected member |
+
+## Let's work together
+
+I'm open to **remote software engineering roles**, especially in AI agents, developer tools, and product engineering. My contribution archive is a good place to see how I approach real bugs, APIs, and code review.
+
+**[Email me](mailto:olawaledavidson1@gmail.com)** &nbsp; · &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/olawaledavidson)** &nbsp; · &nbsp; **[View my portfolio](https://davidson.vercel.app)** &nbsp; · &nbsp; **[Follow my work](https://x.com/AwokoyaD)**
 
 ---
-
-## 🏆 Highlights
-
-- 🥇 **#1 Contributor** to [InsForge](https://github.com/InsForge/InsForge) (YC P26) — 10+ merged PRs across 4 repos in TypeScript, Swift, Go & Markdown
-- 🏆 **Won InsForge PR Hackathon LW1** — 1st place globally, $1,000 prize
-- 🏅 **Won TestSprite Season 2 Hackathon** — 4th place, $150 prize
-- 🏅 **Won TestSprite CLI Improvement Track** — $200 in merged PRs
-- 🔧 **Former Paid Core Maintainer** at [OpenSRE](https://github.com/Tracer-Cloud/opensre) (10,000+ ⭐) by Tracer
-- 🤖 **Built [Drexii](https://drexii.vercel.app)** — production AI agent platform with 11 integrations & 50+ tools
-- 🎖️ **OpenAI Codex for Open Source** — selected maintainer, 6 months ChatGPT Pro
-- 🌍 **GitHub Maintainer Advisory Network** — selected member
-
----
-
-## 🤖 Featured Project — Drexii
-
-> AI agent that turns conversation into execution across your entire stack
-
-[![Drexii](https://img.shields.io/badge/Live-drexii.vercel.app-blue?style=for-the-badge)](https://drexii.vercel.app)
-
-- **11 integrations:** Gmail, Slack, Notion, Jira, Linear, Asana, Google Calendar, Drive, Discord, Zendesk, Salesforce
-- **50+ tools** accessible from a single chat interface
-- **Multi-model routing** — Claude Opus, Sonnet, Haiku, DeepSeek, Gemini
-- **Confirm-before-act** safety layer, chained automations, persistent memory, voice I/O
-- Built with Nuxt.js 4, TypeScript, InsForge (YC P26)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,swift,react,nextjs,vue,nuxtjs,nodejs,postgres,mongodb,docker,vercel,git,github,tailwind&perline=8)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-![InsForge](https://img.shields.io/badge/InsForge-YC%20P26-orange?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-purple?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/Codex-OpenAI-green?style=for-the-badge)
-
-</div>
-
----
-
-## 📂 Open Source Contributions
-
-| Repository | Role | Stars | Language |
-|---|---|---|---|
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | #1 Contributor | 11k+ ⭐ | TypeScript |
-| [InsForge/insforge-sdk-js](https://github.com/InsForge/InsForge-sdk-js) | Contributor | — | TypeScript |
-| [InsForge/insforge-swift](https://github.com/InsForge/insforge-swift) | Contributor | — | Swift |
-| [InsForge/insforge-go](https://github.com/InsForge/insforge-go) | Contributor | — | Go |
-| [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli) | Contributor | 900+ ⭐ | TypeScript |
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | Former Paid Maintainer | 10k+ ⭐ | Various |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidson3556&stroke=ffffff&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidson3556&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson3556&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.github.com/Davidson3556"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/olawaledavidson"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-  <a href="https://x.com/AwokoyaD"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <strong>Build in public. Ship real things. Let the work speak.</strong>
 </p>
-
----
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davidson3556&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)](https://github.com/Davidson3556)
-
-### 💻 "Build in public. Ship real things. Let the work speak." ✨
-
-[![Footer Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Open+to+remote+opportunities;Building+AI+agents+from+Lagos+🇳🇬;Let's+build+something+real+together!)](https://git.io/typing-svg)
-
-</div>

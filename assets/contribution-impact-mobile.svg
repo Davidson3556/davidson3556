@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="364" viewBox="0 0 640 364" role="img" aria-labelledby="title desc">
+  <title id="title">Open source contribution snapshot</title>
+  <desc id="desc">106 merged PRs, 8 upstream repositories in the authored archive, 16 merged InsForge ecosystem PRs, and 9 merged TestSprite CLI PRs. Verified 15 October 2026.</desc>
+  <defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#0d1828"/><stop offset="1" stop-color="#151328"/></linearGradient></defs>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"><g transform="translate(8.0 8)">
+  <rect width="305.0" height="168" rx="18" fill="url(#panel)" stroke="#30394d"/>
+  <rect x="24" y="24" width="25" height="3" rx="1.5" fill="#69f5d1"/>
+  <text x="24" y="85" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#69f5d1">106</text>
+  <text x="24" y="119" font-size="16" font-weight="600" letter-spacing="0.4" fill="#e6edf8">MERGED PULL REQUESTS</text>
+  <text x="24" y="145" font-size="16" fill="#a2b1cc">Accepted upstream changes</text>
+</g><g transform="translate(327.0 8)">
+  <rect width="305.0" height="168" rx="18" fill="url(#panel)" stroke="#30394d"/>
+  <rect x="24" y="24" width="25" height="3" rx="1.5" fill="#8edbff"/>
+  <text x="24" y="85" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#8edbff">8</text>
+  <text x="24" y="119" font-size="16" font-weight="600" letter-spacing="0.4" fill="#e6edf8">UPSTREAM REPOSITORIES</text>
+  <text x="24" y="145" font-size="16" fill="#a2b1cc">Full authored PR archive</text>
+</g><g transform="translate(8.0 190)">
+  <rect width="305.0" height="168" rx="18" fill="url(#panel)" stroke="#30394d"/>
+  <rect x="24" y="24" width="25" height="3" rx="1.5" fill="#bd8bfa"/>
+  <text x="24" y="85" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#bd8bfa">16</text>
+  <text x="24" y="119" font-size="16" font-weight="600" letter-spacing="0.4" fill="#e6edf8">INSFORGE MERGED PRS</text>
+  <text x="24" y="145" font-size="16" fill="#a2b1cc">Core + JavaScript, Swift, Go</text>
+</g><g transform="translate(327.0 190)">
+  <rect width="305.0" height="168" rx="18" fill="url(#panel)" stroke="#30394d"/>
+  <rect x="24" y="24" width="25" height="3" rx="1.5" fill="#f3c58c"/>
+  <text x="24" y="85" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#f3c58c">9</text>
+  <text x="24" y="119" font-size="16" font-weight="600" letter-spacing="0.4" fill="#e6edf8">TESTSPRITE MERGED PRS</text>
+  <text x="24" y="145" font-size="16" fill="#a2b1cc">CLI features and reliability</text>
+</g></g>
+</svg>

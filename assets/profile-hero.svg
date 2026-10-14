@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="456" viewBox="0 0 1280 456" role="img" aria-labelledby="title desc">
+  <title id="title">Awokoya Olawale Davidson — AI agents. Real execution.</title>
+  <desc id="desc">A midnight blue banner with cyan and violet accents, an abstract network of connected tools, and the words Software engineer, Open source contributor, Lagos, open to remote.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#131027"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#69f5d1"/><stop offset="1" stop-color="#8edbff"/></linearGradient>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#69f5d1"/><stop offset=".5" stop-color="#6988ed"/><stop offset="1" stop-color="#bd8bfa"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7064c9" stop-opacity=".26"/><stop offset="1" stop-color="#7064c9" stop-opacity="0"/></radialGradient>
+    <radialGradient id="mint"><stop stop-color="#54e9c0" stop-opacity=".1"/><stop offset="1" stop-color="#54e9c0" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9daee6" stroke-opacity=".045"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="454" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <path fill="url(#bg)" d="M0 0h1280v456H0z"/>
+    <path fill="url(#grid)" d="M0 0h1280v456H0z"/>
+    <ellipse cx="1030" cy="218" rx="390" ry="340" fill="url(#glow)"/>
+    <ellipse cx="134" cy="448" rx="420" ry="300" fill="url(#mint)"/>
+    <path d="M64 94h1152M64 360h1152" stroke="#97a7cb" stroke-opacity=".13"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+      <rect x="64" y="35" width="31" height="31" rx="9" fill="#69f5d1"/>
+      <path d="m73 51 5-6m-5 6 5 6m9-12-5 12" fill="none" stroke="#08111f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="111" y="57" font-size="18" letter-spacing="2.2" font-weight="600" fill="#e7eefb">AWOKOYA OLAWALE DAVIDSON</text>
+      <rect x="933" y="34" width="283" height="34" rx="17" fill="#15242d" stroke="#335650"/>
+      <circle cx="951" cy="51" r="4" fill="#69f5d1"/>
+      <text x="965" y="56" font-size="12" letter-spacing="1.4" font-weight="600" fill="#c1f1de">LAGOS / OPEN TO REMOTE</text>
+      <text x="64" y="175" font-size="66" letter-spacing="-2" font-weight="750" fill="#f5f7ff">AI agents.</text>
+      <text x="64" y="249" font-size="66" letter-spacing="-2" font-weight="750" fill="url(#accent)">Real execution.</text>
+      <text x="67" y="294" font-size="20" fill="#d6ddf1">Software engineer · Open source contributor</text>
+      <text x="67" y="328" font-size="17" fill="#9caac8">I build systems that turn conversation into action.</text>
+      <text x="64" y="402" font-size="13" letter-spacing="2.1" font-weight="600" fill="#aab8d4">TYPESCRIPT / SWIFT / GO</text>
+      <text x="1216" y="402" text-anchor="end" font-size="14" fill="#aab8d4">Build in public. Ship real things.</text>
+    </g>
+    <g fill="none" stroke="#9b94ea">
+      <circle cx="999" cy="224" r="117" stroke-opacity=".17"/>
+      <circle cx="999" cy="224" r="92" stroke-opacity=".13" stroke-dasharray="3 8"/>
+      <path d="M794 220h60l51 4m188 0h91m-185-85v-20m0 190v24" stroke="url(#edge)" stroke-width="1.5"/>
+      <path d="m947 152-55-29m160 173 40 29" stroke="#9381bf" stroke-opacity=".6"/>
+    </g>
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+      <rect x="710" y="190" width="145" height="64" rx="14" fill="#121f30" stroke="#37556b"/>
+      <circle cx="730" cy="222" r="4" fill="#69f5d1"/>
+      <text x="746" y="228" font-size="16" fill="#d6e9f8">conversation</text>
+      <rect x="1090" y="194" width="127" height="60" rx="14" fill="#1c1c35" stroke="#4a416f"/>
+      <text x="1153" y="230" text-anchor="middle" font-size="16" fill="#d9cdf6">execution</text>
+      <rect x="949" y="99" width="100" height="40" rx="12" fill="#192239" stroke="#334a6b"/>
+      <text x="999" y="124" text-anchor="middle" font-size="13" letter-spacing="1" fill="#bbd5fa">TOOLS</text>
+      <rect x="949" y="309" width="100" height="40" rx="12" fill="#202039" stroke="#4c4067"/>
+      <text x="999" y="334" text-anchor="middle" font-size="13" letter-spacing="1" fill="#d7c0f7">MEMORY</text>
+      <circle cx="888" cy="122" r="6" fill="#142636" stroke="#68dacf"/>
+      <circle cx="1093" cy="326" r="6" fill="#29223e" stroke="#be95f6"/>
+      <path d="m999 151 63 36v74l-63 37-64-37v-74z" fill="#141c33" stroke="url(#edge)" stroke-width="1.5"/>
+      <path d="m999 166 49 28v58l-49 29-50-29v-58z" fill="#182640" stroke="#7dacec" stroke-opacity=".2"/>
+      <path d="m984 206-18 18 18 18m29-36 18 18-18 18m-10-40-11 44" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="936" cy="188" r="4" fill="#7ce8d9"/>
+      <circle cx="1061" cy="260" r="4" fill="#be95f6"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1278" height="454" rx="24" fill="none" stroke="#35394f"/>
+</svg>

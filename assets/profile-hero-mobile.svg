@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="610" viewBox="0 0 640 610" role="img" aria-labelledby="title desc">
+  <title id="title">Awokoya Olawale Davidson — AI agents. Real execution.</title>
+  <desc id="desc">Software engineer and open source contributor in Lagos, open to remote opportunities. An abstract network connects conversation, an agent, and execution.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#17112b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#69f5d1"/><stop offset="1" stop-color="#8edbff"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#69f5d1"/><stop offset="1" stop-color="#bd8bfa"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7064c9" stop-opacity=".2"/><stop offset="1" stop-color="#7064c9" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9daee6" stroke-opacity=".05"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="638" height="608" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <path fill="url(#bg)" d="M0 0h640v610H0z"/>
+    <path fill="url(#grid)" d="M0 0h640v610H0z"/>
+    <ellipse cx="405" cy="447" rx="340" ry="270" fill="url(#glow)"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+      <rect x="40" y="35" width="34" height="34" rx="9" fill="#69f5d1"/>
+      <path d="m49 52 6-7m-6 7 6 7m10-14-5 14" fill="none" stroke="#08111f" stroke-width="2.5" stroke-linecap="round"/>
+      <text x="87" y="57" font-size="19" letter-spacing="1" font-weight="600" fill="#e7eefb">AWOKOYA OLAWALE DAVIDSON</text>
+      <path d="M40 94h560" stroke="#97a7cb" stroke-opacity=".18"/>
+      <text x="40" y="181" font-size="70" letter-spacing="-2" font-weight="750" fill="#f5f7ff">AI agents.</text>
+      <text x="40" y="259" font-size="70" letter-spacing="-2" font-weight="750" fill="url(#accent)">Real execution.</text>
+      <text x="43" y="307" font-size="24" fill="#d6ddf1">Software engineer · Open source</text>
+      <circle cx="46" cy="345" r="5" fill="#69f5d1"/>
+      <text x="62" y="351" font-size="19" fill="#b5d8d1">Lagos, Nigeria / Open to remote</text>
+      <text x="40" y="568" font-size="17" letter-spacing="2" font-weight="600" fill="#aab8d4">TYPESCRIPT / SWIFT / GO</text>
+      <rect x="40" y="427" width="166" height="64" rx="14" fill="#121f30" stroke="#37556b"/>
+      <text x="123" y="466" text-anchor="middle" font-size="20" fill="#d6e9f8">conversation</text>
+      <rect x="434" y="427" width="166" height="64" rx="14" fill="#1c1c35" stroke="#4a416f"/>
+      <text x="517" y="466" text-anchor="middle" font-size="20" fill="#d9cdf6">execution</text>
+      <path d="M206 459h58m112 0h58" stroke="url(#edge)" stroke-width="2"/>
+      <circle cx="320" cy="459" r="70" fill="none" stroke="#9b94ea" stroke-opacity=".2" stroke-dasharray="3 8"/>
+      <path d="m320 398 53 30v61l-53 31-53-31v-61z" fill="#182640" stroke="url(#edge)" stroke-width="1.5"/>
+      <path d="m307 443-15 16 15 16m26-32 15 16-15 16m-10-36-8 40" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M40 531h560" stroke="#97a7cb" stroke-opacity=".18"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="638" height="608" rx="24" fill="none" stroke="#35394f"/>
+</svg>
