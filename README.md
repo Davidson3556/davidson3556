@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Davidson3556&amp;label=Profile%20views&amp;color=69f5d1&amp;style=flat-square" alt="Profile view counter" />
+  &nbsp;
+  <a href="https://github.com/Davidson3556?tab=followers"><img src="https://img.shields.io/github/followers/Davidson3556?label=Followers&amp;style=flat-square&amp;color=BD8BFA&amp;labelColor=182238&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub follower count" /></a>
+</p>
+
+<p align="center">
   <a href="#open-source-contributions">Open source</a> &nbsp; / &nbsp;
   <a href="#featured-build-drexii">Drexii</a> &nbsp; / &nbsp;
   <a href="#engineering-toolkit">Toolkit</a> &nbsp; / &nbsp;
