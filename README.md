@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Davidson.</h1>
 
 <p align="center">
-  <strong>AI-native software engineer · Open source contributor · Former OpenSRE core maintainer</strong><br />
+  <strong>AI-native software engineer · Open source contributor ·  core maintainer</strong><br />
   Lagos, Nigeria · Open to remote engineering opportunities
 </p>
 
