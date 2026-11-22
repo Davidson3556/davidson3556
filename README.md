@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Davidson.</h1>
 
 <p align="center">
-  <strong>AI-native software engineer · Open source contributor ·  core maintainer</strong><br />
+  <strong>Software engineer · Open source contributor · Former OpenSRE core maintainer</strong><br />
   Lagos, Nigeria · Open to remote engineering opportunities
 </p>
 
@@ -43,10 +43,10 @@ I'm currently building **[Drexii](https://drexii.vercel.app)**, a conversational
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/contribution-impact-mobile.svg" />
-  <img src="./assets/contribution-impact.svg" width="100%" alt="106 merged pull requests. 8 upstream repositories. 16 merged contributions across the InsForge ecosystem. 9 merged contributions to TestSprite CLI." />
+  <img src="./assets/contribution-impact.svg" width="100%" alt="113 merged pull requests across 8 repositories. 11 upstream repositories in the full archive. 16 merged InsForge contributions and 12 merged TestSprite CLI contributions." />
 </picture>
 
-**106 merged PRs · 8 upstream repositories · 148 authored PRs** in the public contribution archive. Seven repositories have merged work; Nuxt has a closed proposal. Snapshot: **15 October 2026**.
+**113 merged PRs across 8 repositories · 158 authored PRs across 11 repositories.** The archive also includes **2 open PRs** and **43 closed, unmerged proposals**. Snapshot: **22 November 2026**.
 
 **[Browse the complete contribution archive ↗](./CONTRIBUTIONS.md)**
 
@@ -54,14 +54,22 @@ I'm currently building **[Drexii](https://drexii.vercel.app)**, a conversational
 
 | Project | What I contributed | Merged work |
 | :--- | :--- | :--- |
-| **[OpenSRE](https://github.com/Tracer-Cloud/opensre)** | Former paid core maintainer. Added Claude Code and GitHub Copilot CLI providers; fixed provider retry handling and guarded CI repair against a changing source branch. | **77 PRs** · [Claude Code #1168](https://github.com/Tracer-Cloud/opensre/pull/1168) · [Copilot #1533](https://github.com/Tracer-Cloud/opensre/pull/1533) · [Retry handling #3172](https://github.com/Tracer-Cloud/opensre/pull/3172) · [CI repair #6504](https://github.com/Tracer-Cloud/opensre/pull/6504) |
+| **[OpenSRE](https://github.com/Tracer-Cloud/opensre)** | Former paid core maintainer. Added Claude Code and GitHub Copilot CLI providers; fixed provider retry handling and guarded CI repair against a changing source branch. More recently, updated CLI, Pipedream and scheduled-email documentation. | **79 PRs** · [Claude Code #1168](https://github.com/Tracer-Cloud/opensre/pull/1168) · [Copilot #1533](https://github.com/Tracer-Cloud/opensre/pull/1533) · [Retry handling #3172](https://github.com/Tracer-Cloud/opensre/pull/3172) · [CI repair #6504](https://github.com/Tracer-Cloud/opensre/pull/6504) · [Recent docs #6952](https://github.com/Tracer-Cloud/opensre/pull/6952) |
 | **[InsForge](https://github.com/InsForge/InsForge)** | Protected system schemas in the SQL editor, fixed dashboard edits for composite primary keys, and blocked anonymous clients from the raw-email endpoint. Also contributed deployment and storage settings. | **8 PRs** · [SQL protection #1041](https://github.com/InsForge/InsForge/pull/1041) · [Composite keys #1584](https://github.com/InsForge/InsForge/pull/1584) · [Email access #1629](https://github.com/InsForge/InsForge/pull/1629) |
 | **[InsForge JavaScript SDK](https://github.com/InsForge/InsForge-sdk-js)** | Added HTTP retries and configurable timeouts, request debugging, integration-test CI, and working lint and formatting gates. | **4 PRs** · [Retries #51](https://github.com/InsForge/InsForge-sdk-js/pull/51) · [Debugging #50](https://github.com/InsForge/InsForge-sdk-js/pull/50) · [CI #59](https://github.com/InsForge/InsForge-sdk-js/pull/59) |
 | **[InsForge Swift SDK](https://github.com/InsForge/insforge-swift)** | Added streaming chat completions with Server-Sent Events and chunked uploads for large files; resolved existing SwiftLint violations. | **3 PRs** · [Streaming #18](https://github.com/InsForge/insforge-swift/pull/18) · [Uploads #20](https://github.com/InsForge/insforge-swift/pull/20) · [Lint #25](https://github.com/InsForge/insforge-swift/pull/25) |
 | **[InsForge Go SDK](https://github.com/InsForge/insforge-go)** | Built and contributed the Go SDK for authentication, databases, storage, AI, realtime, functions, and email. | **1 PR** · [SDK #1](https://github.com/InsForge/insforge-go/pull/1) |
-| **[TestSprite CLI](https://github.com/TestSprite/testsprite-cli)** | Added GitHub Copilot and Windsurf install targets; kept machine-readable stdout clean; improved input validation and HTTP response handling. | **9 PRs** · [Copilot #194](https://github.com/TestSprite/testsprite-cli/pull/194) · [Windsurf #29](https://github.com/TestSprite/testsprite-cli/pull/29) · [Clean stdout #31](https://github.com/TestSprite/testsprite-cli/pull/31) · [Response validation #291](https://github.com/TestSprite/testsprite-cli/pull/291) |
+| **[TestSprite CLI](https://github.com/TestSprite/testsprite-cli)** | Added editor install targets and clean JSON output. Recent fixes handle interrupted HTTP responses, unreadable telemetry credentials and backend failure recovery commands. | **12 PRs** · [Copilot #194](https://github.com/TestSprite/testsprite-cli/pull/194) · [HTTP retries #608](https://github.com/TestSprite/testsprite-cli/pull/608) · [Telemetry #641](https://github.com/TestSprite/testsprite-cli/pull/641) · [Failure guidance #576](https://github.com/TestSprite/testsprite-cli/pull/576) |
 | **[MoleCare MCP](https://github.com/MoleCare/molecare-mcp)** | Fixed bundled terminology resolution and ICD-10 mappings, moved medical knowledge into locale files, and improved configuration docs and registry publishing checks. | **4 PRs** · [Terminology #76](https://github.com/MoleCare/molecare-mcp/pull/76) · [Locales #103](https://github.com/MoleCare/molecare-mcp/pull/103) · [Registry CI #92](https://github.com/MoleCare/molecare-mcp/pull/92) |
+| **[Respan](https://github.com/respanai/respan-gateway)** | Added Firecrawl tools to the Rust MCP gateway with input validation, pagination, error handling and local tests. Clarified E2B sandbox-expiry documentation. | **2 PRs** · [Firecrawl #65](https://github.com/respanai/respan-gateway/pull/65) · [E2B docs #66](https://github.com/respanai/respan-gateway/pull/66) |
 | **[Nuxt CLI](https://github.com/nuxt/cli)** | Proposed a fix to keep the working directory at the project root during preview. | **Closed, unmerged** · [Proposal #1235](https://github.com/nuxt/cli/pull/1235) |
+
+### Work awaiting review
+
+- **[Prolific CLI #560](https://github.com/prolific-oss/cli/pull/560):** Proposed raw JSON output for study lists, preserving unknown API fields and numeric precision, with tests and documentation.
+- **[neatroots #632](https://github.com/neatlogs/neatroots/pull/632):** Proposed support for OpenTelemetry `gen_ai.system_instructions` in LLM span views, with regression tests.
+
+Both PRs are open as of 22 November 2026 and are excluded from the merged totals.
 
 ### Reviews & issue reports
 
@@ -74,7 +82,7 @@ My issue reports include [one invalid credential aborting integration discovery]
 <details>
 <summary><strong>Explore every authored pull request</strong></summary>
 
-The **[complete contribution archive](./CONTRIBUTIONS.md)** lists all 148 authored PRs across these eight upstream projects, grouped by repository, with their titles, dates, and status. It separates **106 merged changes** from **42 closed, unmerged proposals**.
+The **[complete contribution archive](./CONTRIBUTIONS.md)** lists all 158 authored PRs across these 11 upstream repositories, grouped by repository, with their titles, dates, and status. It separates **113 merged changes**, **2 open PRs**, and **43 closed, unmerged proposals**.
 
 Browse the current GitHub records: [authored PRs](https://github.com/search?q=author%3ADavidson3556+is%3Apr+is%3Apublic+-user%3ADavidson3556&type=pullrequests) · [merged PRs](https://github.com/search?q=author%3ADavidson3556+is%3Apr+is%3Amerged+is%3Apublic+-user%3ADavidson3556&type=pullrequests).
 
@@ -121,7 +129,8 @@ Gmail · Slack · Notion · Jira · Linear · Asana · Google Calendar · Google
 | **[TestSprite Season 2 Hackathon](https://www.testsprite.com/hackathon-s2)** | **4th place** · $150 prize |
 | **TestSprite CLI improvement bounty** | $200 in merged PR rewards |
 | **OpenAI Codex for Open Source** | Selected maintainer · 6 months of ChatGPT Pro |
-| **GitHub Maintainer Advisory Network** | Selected member |
+| **GitHub Maintainer Advisory Network** | Member since November 2026 |
+| **GitHub Maintainer Community** | Member since October 2026 |
 
 ## Let's work together
 
@@ -134,3 +143,4 @@ I'm open to **remote software engineering roles**, especially in AI agents, deve
 <p align="center">
   <strong>Build in public. Ship real things. Let the work speak.</strong>
 </p>
+

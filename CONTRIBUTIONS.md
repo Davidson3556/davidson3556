@@ -1,39 +1,46 @@
 # Open-source contribution archive
 
-A complete, linked record of my authored pull requests to the upstream projects below, spanning SDK development, backend security, AI tooling, integration reliability and developer experience.
+A linked record of my authored pull requests to the upstream projects below, spanning SDK development, backend security, AI tooling, integration reliability and developer experience.
 
-**Snapshot: 15 October 2026 · 148 authored pull requests · 106 merged · 42 closed without merge · 8 upstream repositories.** Merged work spans seven repositories; there are no open authored PRs in this snapshot.
+**Snapshot: 22 November 2026 · 158 authored pull requests · 113 merged · 2 open · 43 closed without merge · 11 upstream repositories.** Merged work spans eight repositories.
 
 [← Back to my profile](README.md) · [View my public authored PR history](https://github.com/search?q=author%3ADavidson3556+is%3Apr+is%3Apublic+-user%3ADavidson3556&type=pullrequests)
 
 ## Scope
 
-This archive covers public PRs authored by **Davidson3556** in the eight upstream repositories listed here. It excludes my own repositories and forks, private repositories, employer and client product work, reviews, issues and direct commits from the authored PR counts. Review and issue activity, where listed separately below, does not change these totals.
+This archive covers public PRs authored by **Davidson3556** in the 11 upstream repositories listed here. It excludes my own repositories and forks, private repositories, employer and client product work, reviews, issues and direct commits from the authored PR counts. Review and issue activity, where listed separately below, does not change these totals.
 
-**Merged** means GitHub records a merge timestamp. **Closed without merge** means a proposal was closed without being merged; those entries are part of my contribution history and are not counted as shipped work. Creation dates are shown in **Africa/Lagos (UTC+1)** and each repository's archive is ordered newest first.
+**Merged** means GitHub records a merge. **Open** means the PR is still awaiting a final outcome. **Closed without merge** means a proposal was closed without being merged. Only merged PRs count as accepted upstream changes. Creation dates are shown in **Africa/Lagos (UTC+1)** and each repository's archive is ordered newest first. Statuses were checked against GitHub on 22 November 2026.
+
+## Since the previous update
+
+Since the 15 October snapshot, the archive has added **10 authored PRs: 7 merged, 2 open and 1 closed without merge**. New repositories are **Respan**, **Prolific CLI** and **neatroots**. The merged additions include Firecrawl tools and E2B documentation in Respan, three TestSprite CLI reliability fixes, and two OpenSRE documentation updates. Prolific CLI and neatroots remain open proposals.
 
 ## At a glance
 
 | Upstream project | Merged | Open | Closed without merge | Total | Live history |
 |---|---:|---:|---:|---:|---|
-| [OpenSRE](https://github.com/Tracer-Cloud/opensre) | 77 | 0 | 33 | 110 | [All PRs](https://github.com/search?q=repo%3ATracer-Cloud%2Fopensre%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
+| [OpenSRE](https://github.com/Tracer-Cloud/opensre) | 79 | 0 | 33 | 112 | [All PRs](https://github.com/search?q=repo%3ATracer-Cloud%2Fopensre%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
 | [InsForge core](https://github.com/InsForge/InsForge) | 8 | 0 | 5 | 13 | [All PRs](https://github.com/search?q=repo%3AInsForge%2FInsForge%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
 | [InsForge JavaScript SDK](https://github.com/InsForge/InsForge-sdk-js) | 4 | 0 | 0 | 4 | [All PRs](https://github.com/search?q=repo%3AInsForge%2FInsForge-sdk-js%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
 | [InsForge Swift SDK](https://github.com/InsForge/insforge-swift) | 3 | 0 | 0 | 3 | [All PRs](https://github.com/search?q=repo%3AInsForge%2Finsforge-swift%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
 | [InsForge Go SDK](https://github.com/InsForge/insforge-go) | 1 | 0 | 0 | 1 | [All PRs](https://github.com/search?q=repo%3AInsForge%2Finsforge-go%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
-| [TestSprite CLI](https://github.com/TestSprite/testsprite-cli) | 9 | 0 | 1 | 10 | [All PRs](https://github.com/search?q=repo%3ATestSprite%2Ftestsprite-cli%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
+| [TestSprite CLI](https://github.com/TestSprite/testsprite-cli) | 12 | 0 | 2 | 14 | [All PRs](https://github.com/search?q=repo%3ATestSprite%2Ftestsprite-cli%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
 | [MoleCare MCP](https://github.com/MoleCare/molecare-mcp) | 4 | 0 | 2 | 6 | [All PRs](https://github.com/search?q=repo%3AMoleCare%2Fmolecare-mcp%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
+| [Respan](https://github.com/respanai/respan-gateway) | 2 | 0 | 0 | 2 | [All PRs](https://github.com/search?q=repo%3Arespanai%2Frespan-gateway%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
+| [Prolific CLI](https://github.com/prolific-oss/cli) | 0 | 1 | 0 | 1 | [All PRs](https://github.com/search?q=repo%3Aprolific-oss%2Fcli%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
+| [neatroots](https://github.com/neatlogs/neatroots) | 0 | 1 | 0 | 1 | [All PRs](https://github.com/search?q=repo%3Aneatlogs%2Fneatroots%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
 | [Nuxt CLI](https://github.com/nuxt/cli) | 0 | 0 | 1 | 1 | [All PRs](https://github.com/search?q=repo%3Anuxt%2Fcli%20is%3Apr%20author%3ADavidson3556&type=pullrequests) |
-| **Total** | **106** | **0** | **42** | **148** | |
+| **Total** | **113** | **2** | **43** | **158** | |
 
 Live GitHub search links reflect current activity; the numbers and archive below reflect the snapshot date.
 
 ## Complete authored PR archive
 
-Expand a project to inspect every authored PR, including the full title, creation date and verified outcome.
+Expand a project to inspect every authored PR, including its title, creation date and outcome.
 
 <details>
-<summary><strong>OpenSRE</strong> — 77 merged · 33 closed without merge</summary>
+<summary><strong>OpenSRE</strong> — 79 merged · 0 open · 33 closed without merge</summary>
 
 AI operations, agents, integrations and developer tooling.
 
@@ -41,6 +48,8 @@ AI operations, agents, integrations and developer tooling.
 
 | Created | Pull request | Outcome |
 |---|---|---|
+| 2026-10-30 | [#6952 — docs: document Pipedream and scheduled email delivery; remove stale Yandex Cloud file](https://github.com/Tracer-Cloud/opensre/pull/6952) | Merged |
+| 2026-10-20 | [#6822 — docs: fix stale CLI commands, dead links, and missing list entries](https://github.com/Tracer-Cloud/opensre/pull/6822) | Merged |
 | 2026-10-02 | [#6508 — fix(cli): accept listed GitHub connection IDs](https://github.com/Tracer-Cloud/opensre/pull/6508) | Closed without merge |
 | 2026-10-02 | [#6506 — fix(github): preserve CI repair connection selection](https://github.com/Tracer-Cloud/opensre/pull/6506) | Closed without merge |
 | 2026-10-02 | [#6505 — docs(github): explain workspace connection selection](https://github.com/Tracer-Cloud/opensre/pull/6505) | Merged |
@@ -155,9 +164,9 @@ AI operations, agents, integrations and developer tooling.
 </details>
 
 <details>
-<summary><strong>InsForge core</strong> — 8 merged · 5 closed without merge</summary>
+<summary><strong>InsForge core</strong> — 8 merged · 0 open · 5 closed without merge</summary>
 
-Backend platform, database safety and dashboard behavior.
+Backend security, data management, deployment and storage settings.
 
 [Repository](https://github.com/InsForge/InsForge) · [Merged PRs](https://github.com/search?q=repo%3AInsForge%2FInsForge%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3AInsForge%2FInsForge%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3AInsForge%2FInsForge%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
@@ -180,9 +189,9 @@ Backend platform, database safety and dashboard behavior.
 </details>
 
 <details>
-<summary><strong>InsForge JavaScript SDK</strong> — 4 merged · 0 closed without merge</summary>
+<summary><strong>InsForge JavaScript SDK</strong> — 4 merged · 0 open · 0 closed without merge</summary>
 
-Request resilience, logging, integration testing and quality gates.
+HTTP reliability, debugging, integration tests and developer tooling.
 
 [Repository](https://github.com/InsForge/InsForge-sdk-js) · [Merged PRs](https://github.com/search?q=repo%3AInsForge%2FInsForge-sdk-js%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3AInsForge%2FInsForge-sdk-js%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3AInsForge%2FInsForge-sdk-js%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
@@ -196,9 +205,9 @@ Request resilience, logging, integration testing and quality gates.
 </details>
 
 <details>
-<summary><strong>InsForge Swift SDK</strong> — 3 merged · 0 closed without merge</summary>
+<summary><strong>InsForge Swift SDK</strong> — 3 merged · 0 open · 0 closed without merge</summary>
 
-AI streaming, storage uploads and SwiftLint fixes.
+Streaming chat completions, file uploads and Swift tooling.
 
 [Repository](https://github.com/InsForge/insforge-swift) · [Merged PRs](https://github.com/search?q=repo%3AInsForge%2Finsforge-swift%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3AInsForge%2Finsforge-swift%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3AInsForge%2Finsforge-swift%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
@@ -211,9 +220,9 @@ AI streaming, storage uploads and SwiftLint fixes.
 </details>
 
 <details>
-<summary><strong>InsForge Go SDK</strong> — 1 merged · 0 closed without merge</summary>
+<summary><strong>InsForge Go SDK</strong> — 1 merged · 0 open · 0 closed without merge</summary>
 
-Initial official SDK implementation.
+Go SDK development and documentation.
 
 [Repository](https://github.com/InsForge/insforge-go) · [Merged PRs](https://github.com/search?q=repo%3AInsForge%2Finsforge-go%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3AInsForge%2Finsforge-go%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3AInsForge%2Finsforge-go%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
@@ -224,14 +233,18 @@ Initial official SDK implementation.
 </details>
 
 <details>
-<summary><strong>TestSprite CLI</strong> — 9 merged · 1 closed without merge</summary>
+<summary><strong>TestSprite CLI</strong> — 12 merged · 0 open · 2 closed without merge</summary>
 
-Coding agent integrations, validation and CLI output contracts.
+CLI features, output handling, HTTP reliability and test workflows.
 
 [Repository](https://github.com/TestSprite/testsprite-cli) · [Merged PRs](https://github.com/search?q=repo%3ATestSprite%2Ftestsprite-cli%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3ATestSprite%2Ftestsprite-cli%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3ATestSprite%2Ftestsprite-cli%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
 | Created | Pull request | Outcome |
 |---|---|---|
+| 2026-10-22 | [#641 — fix(cli): don't let an unreadable credentials file crash the telemetry hook](https://github.com/TestSprite/testsprite-cli/pull/641) | Merged |
+| 2026-10-20 | [#608 — fix(http): retry a connection reset mid-body as a transport failure](https://github.com/TestSprite/testsprite-cli/pull/608) | Merged |
+| 2026-10-20 | [#576 — fix(test): point backend failures at test failure get in JSON mode and closure reruns](https://github.com/TestSprite/testsprite-cli/pull/576) | Merged |
+| 2026-10-16 | [#442 — fix(output): strip terminal control sequences from text-mode output](https://github.com/TestSprite/testsprite-cli/pull/442) | Closed without merge |
 | 2026-07-26 | [#291 — feat(http): validate the /me and usage response shapes at runtime](https://github.com/TestSprite/testsprite-cli/pull/291) | Merged |
 | 2026-07-06 | [#194 — feat(agent): add GitHub Copilot as an install target](https://github.com/TestSprite/testsprite-cli/pull/194) | Merged |
 | 2026-07-03 | [#166 — fix(http): map non-JSON 200 responses to a typed error envelope](https://github.com/TestSprite/testsprite-cli/pull/166) | Merged |
@@ -246,9 +259,9 @@ Coding agent integrations, validation and CLI output contracts.
 </details>
 
 <details>
-<summary><strong>MoleCare MCP</strong> — 4 merged · 2 closed without merge</summary>
+<summary><strong>MoleCare MCP</strong> — 4 merged · 0 open · 2 closed without merge</summary>
 
-Terminology consistency, localization, documentation and publishing.
+Terminology resolution, localization and MCP publishing.
 
 [Repository](https://github.com/MoleCare/molecare-mcp) · [Merged PRs](https://github.com/search?q=repo%3AMoleCare%2Fmolecare-mcp%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3AMoleCare%2Fmolecare-mcp%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3AMoleCare%2Fmolecare-mcp%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
@@ -264,9 +277,49 @@ Terminology consistency, localization, documentation and publishing.
 </details>
 
 <details>
-<summary><strong>Nuxt CLI</strong> — 0 merged · 1 closed without merge</summary>
+<summary><strong>Respan</strong> — 2 merged · 0 open · 0 closed without merge</summary>
 
-Preview working-directory fix proposed upstream.
+Firecrawl tools and E2B sandbox documentation for an MCP gateway.
+
+[Repository](https://github.com/respanai/respan-gateway) · [Merged PRs](https://github.com/search?q=repo%3Arespanai%2Frespan-gateway%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3Arespanai%2Frespan-gateway%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3Arespanai%2Frespan-gateway%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
+
+| Created | Pull request | Outcome |
+|---|---|---|
+| 2026-10-25 | [#66 — tool-vendors: clarify E2B sandbox expiry](https://github.com/respanai/respan-gateway/pull/66) | Merged |
+| 2026-10-25 | [#65 — tool-vendors: add Firecrawl tools](https://github.com/respanai/respan-gateway/pull/65) | Merged |
+
+</details>
+
+<details>
+<summary><strong>Prolific CLI</strong> — 0 merged · 1 open · 0 closed without merge</summary>
+
+Proposed raw JSON study-list output; awaiting review.
+
+[Repository](https://github.com/prolific-oss/cli) · [Merged PRs](https://github.com/search?q=repo%3Aprolific-oss%2Fcli%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3Aprolific-oss%2Fcli%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3Aprolific-oss%2Fcli%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
+
+| Created | Pull request | Outcome |
+|---|---|---|
+| 2026-11-12 | [#560 — feat(study): add raw JSON output for study lists](https://github.com/prolific-oss/cli/pull/560) | Open |
+
+</details>
+
+<details>
+<summary><strong>neatroots</strong> — 0 merged · 1 open · 0 closed without merge</summary>
+
+Proposed OpenTelemetry system-instructions support; awaiting review.
+
+[Repository](https://github.com/neatlogs/neatroots) · [Merged PRs](https://github.com/search?q=repo%3Aneatlogs%2Fneatroots%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3Aneatlogs%2Fneatroots%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3Aneatlogs%2Fneatroots%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
+
+| Created | Pull request | Outcome |
+|---|---|---|
+| 2026-10-20 | [#632 — fix(semantics): read the system prompt from gen_ai.system_instructions](https://github.com/neatlogs/neatroots/pull/632) | Open |
+
+</details>
+
+<details>
+<summary><strong>Nuxt CLI</strong> — 0 merged · 0 open · 1 closed without merge</summary>
+
+Closed proposal for the preview command working directory.
 
 [Repository](https://github.com/nuxt/cli) · [Merged PRs](https://github.com/search?q=repo%3Anuxt%2Fcli%20is%3Apr%20author%3ADavidson3556%20is%3Amerged&type=pullrequests) · [Open PRs](https://github.com/search?q=repo%3Anuxt%2Fcli%20is%3Apr%20author%3ADavidson3556%20is%3Aopen&type=pullrequests) · [Closed without merge](https://github.com/search?q=repo%3Anuxt%2Fcli%20is%3Apr%20author%3ADavidson3556%20is%3Aclosed%20is%3Aunmerged&type=pullrequests)
 
@@ -278,9 +331,9 @@ Preview working-directory fix proposed upstream.
 
 ## Sources and verification
 
-The inventory was retrieved through GitHub's public PR search and cross-checked with individual pull-request API metadata for all 148 entries. Each entry's author, title, canonical URL, creation timestamp, closed state and merge timestamp were checked. A separate public search returned 246 authored PRs outside my own repositories; professional product work is excluded from the curated open-source totals here. These counts measure authored PRs, not commit volume, contributor rankings or review impact.
+The 22 November inventory was retrieved through GitHub public PR searches and split into non-overlapping creation-date ranges to avoid result limits. Merged, open and closed-unmerged searches were reconciled against all 158 unique PR URLs. The ten additions were also checked against individual PR metadata. Historical creation dates were retained from the previously verified archive. Public visibility was checked for all 11 repositories. These counts measure authored PRs, not commit volume, contributor rankings or review impact.
 
-The projects publish the following licensing information:
+License references retained from the 15 October snapshot:
 
 | Project | Published license |
 |---|---|
@@ -293,11 +346,13 @@ The projects publish the following licensing information:
 | MoleCare MCP | [Apache-2.0](https://github.com/MoleCare/molecare-mcp/blob/main/LICENSE) |
 | Nuxt CLI | [MIT](https://github.com/nuxt/cli/blob/main/LICENSE) |
 
+For the three added projects, GitHub repository metadata identifies [Respan](https://github.com/respanai/respan-gateway), [Prolific CLI](https://github.com/prolific-oss/cli) and [neatroots](https://github.com/neatlogs/neatroots) as Apache-2.0, checked on 22 November 2026.
+
 The snapshot may change as upstream activity continues. Deleted or inaccessible contributions, work under other identities and private contributions are outside this public record.
 
 ## Reviews & issue reports
 
-Selected public review submissions and authored issue reports are listed below. They are separate from the 148 authored PRs and are not included in the merged-PR totals. These are representative examples; the live searches provide the broader public history.
+Selected public review submissions and authored issue reports are listed below. They are separate from the 158 authored PRs and are not included in the merged-PR totals. These are representative examples; the live searches provide the broader public history.
 
 ### Code review
 
@@ -322,6 +377,7 @@ Selected public review submissions and authored issue reports are listed below. 
 | TestSprite CLI | Interactive prompts and configuration output pollute JSON-mode stdout | [Issue #30](https://github.com/TestSprite/testsprite-cli/issues/30) |
 | TestSprite CLI | JSON-mode handling of argument-parse errors | [Issue #24](https://github.com/TestSprite/testsprite-cli/issues/24) |
 
-All six reports were closed at the snapshot date. Issue closure is recorded separately from any associated fix or merged PR.
+These six reports were closed in the 15 October 2026 snapshot. Issue closure is recorded separately from any associated fix or merged PR.
 
 Browse my current authored issue history: [OpenSRE](https://github.com/search?q=repo%3ATracer-Cloud%2Fopensre+is%3Aissue+author%3ADavidson3556&type=issues) · [InsForge JavaScript SDK](https://github.com/search?q=repo%3AInsForge%2FInsForge-sdk-js+is%3Aissue+author%3ADavidson3556&type=issues) · [TestSprite CLI](https://github.com/search?q=repo%3ATestSprite%2Ftestsprite-cli+is%3Aissue+author%3ADavidson3556&type=issues).
+
